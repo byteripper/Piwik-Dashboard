@@ -3,7 +3,7 @@ Piwik-Dashboard
 
 Piwik (1.8.2) bietet die Möglichkeit das Dashboard als iframe anzuzeigen.
 Mit diesem kleinen Modul kann das Dashboard im Admin Bereich angezigt werden.
-Zusammen mit dem OXID-Piwik-Plugin von hier werden auch Auswertungen des Shops angezeigt.
+Zusammen mit dem OXID-Piwik-Plugin werden auch Auswertungen des Shops angezeigt.
 
 Installation:
 
